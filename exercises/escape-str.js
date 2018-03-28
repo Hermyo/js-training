@@ -9,6 +9,9 @@
 
 // Your code :
 
+const escapeStr = 'string' + "'" + '"' + '`' + '/' + '\\';
+
+
 //* Begin of tests
 const assert = require('assert')
 
